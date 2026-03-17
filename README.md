@@ -1,2 +1,2 @@
-# GL-Financias-
-App de finanças e gastos e investimentos 
+# GLD-Financias-
+Aplicativo de finanças,gastos e investimentos, com simulador de juros compostos e todo resumos financeiros 
